@@ -1,6 +1,13 @@
 # BingWebPageTranslator
  A Web page translator based on Bing API.
  
+
+## Screenshot:  
+before:  
+![original webpage](https://github.com/xxycode/BingWebPageTranslator/blob/655ba06c0c9d3d9caecbf51bae56b27ab568118f/trbefore.jpg)  
+after:  
+![original webpage](https://github.com/xxycode/BingWebPageTranslator/blob/655ba06c0c9d3d9caecbf51bae56b27ab568118f/trafter.jpg)
+ 
 ## JS
  The js code is copied from [Firefox translate extension](https://addons.mozilla.org/en-US/firefox/addon/simple-translate/).
  
