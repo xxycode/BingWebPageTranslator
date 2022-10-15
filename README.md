@@ -1,4 +1,5 @@
 # BingWebPageTranslator
+ Works well on wkwebview.
  A Web page translator based on Bing API.
  
 
